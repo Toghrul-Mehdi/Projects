@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\ii novbe\\source\\repos\\invalidexception\\invalidexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|solutionrelative:invalidexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\ii novbe\\source\\repos\\invalidexception\\invalidexception\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|solutionrelative:invalidexception\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\ii novbe\\source\\repos\\invalidexception\\invalidexception\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|solutionrelative:invalidexception\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93E00BE-9343-455F-A0D8-7AA3F9DF400F}|Core\\Core.csproj|c:\\users\\ii novbe\\source\\repos\\invalidexception\\core\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93E00BE-9343-455F-A0D8-7AA3F9DF400F}|Core\\Core.csproj|solutionrelative:core\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\ii novbe\\source\\repos\\invalidexception\\invalidexception\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|solutionrelative:invalidexception\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Enum.cs",
+              "RelativeDocumentMoniker": "InvalidException\\Enum.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Enum.cs",
+              "RelativeToolTip": "InvalidException\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:51:17.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Store.cs",
+              "RelativeDocumentMoniker": "InvalidException\\Store.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Store.cs",
+              "RelativeToolTip": "InvalidException\\Store.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA6wDYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:41:28.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Product.cs",
+              "RelativeDocumentMoniker": "InvalidException\\Product.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Product.cs",
+              "RelativeToolTip": "InvalidException\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:01:26.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriceMustBeGratherThanZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\Core\\PriceMustBeGratherThanZeroException.cs",
+              "RelativeDocumentMoniker": "Core\\PriceMustBeGratherThanZeroException.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\Core\\PriceMustBeGratherThanZeroException.cs",
+              "RelativeToolTip": "Core\\PriceMustBeGratherThanZeroException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:00:36.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Program.cs",
+              "RelativeDocumentMoniker": "InvalidException\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Program.cs",
+              "RelativeToolTip": "InvalidException\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:00:14.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
