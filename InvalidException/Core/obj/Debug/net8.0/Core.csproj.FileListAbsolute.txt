@@ -9,3 +9,15 @@ C:\Users\II novbe\source\repos\InvalidException\Core\obj\Debug\net8.0\Core.dll
 C:\Users\II novbe\source\repos\InvalidException\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\II novbe\source\repos\InvalidException\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\II novbe\source\repos\InvalidException\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\bin\Debug\net8.0\Core.deps.json
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\bin\Debug\net8.0\Core.dll
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\bin\Debug\net8.0\Core.pdb
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\obj\Debug\net8.0\Core.sourcelink.json
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\obj\Debug\net8.0\Core.dll
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\obj\Debug\net8.0\refint\Core.dll
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\obj\Debug\net8.0\Core.pdb
+C:\Users\Victus\OneDrive\İş masası\Codecademy\Exception\Projects\InvalidException\Core\obj\Debug\net8.0\ref\Core.dll

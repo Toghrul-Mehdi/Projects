@@ -7,14 +7,16 @@ using System.Threading.Tasks;
 
 namespace InvalidException
 {
-    public class Product
+    public class Product 
     {
         private static int _id;
         public int Id { get; set; }
         public string Name { get; set; }
 
         public double Price;
-        public int Nov;
+
+        public Type ProductType { get; set; }
+        
         
 
         public double _Price
@@ -37,10 +39,10 @@ namespace InvalidException
         {            
             
         }
-        public Product(string name , double price,int nov)
+        public Product(string name , double price,Type productType)
         {
             Id = ++_id;
-            Nov= nov;
+            ProductType = productType;
             Name = name;
             Price = price;
         }

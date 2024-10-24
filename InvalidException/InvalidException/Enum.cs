@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace InvalidException
 {
-    internal enum  Type
-    {
-        Baker,
-        Drink,
-        Meat,
-        Diary
+    public enum  Type
+    {   
+        Baker=1,
+        Drink=2,
+        Meat=3,
+        Diary=4
     }
 }

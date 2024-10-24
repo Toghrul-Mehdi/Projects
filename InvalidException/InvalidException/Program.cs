@@ -12,7 +12,7 @@ namespace InvalidException
             Store magaza = new Store();
             do
             {
-                Console.WriteLine("1.AddProduct    2.RemoveProduct   3.GetProduct   4.FilterProductsByType    5.FilterProductsByName");
+                Console.WriteLine("1.AddProduct    2.RemoveProduct   3.GetProduct   4.FilterProductsByType    5.FilterProductsByName  6.ShowAll   0.Exit");
                 
                 string secim = Console.ReadLine();
 
@@ -37,22 +37,30 @@ namespace InvalidException
                             }
                             else
                             {
-                                throw new PriceMustBeGratherThanZeroException("0dan kicik ola bilmez");
+                                price_f = false;
                             }
 
                         } while (!price_f);
-                        int type;
-                        bool bool_type=false;
+
+                        Type productType;
+                        
                         do
                         {
-                            Console.WriteLine("Type daxil et:");
-                            bool_type = int.TryParse(Console.ReadLine(), out type);
+                            Console.Write("Tip daxil edin (1.Baker, 2.Drink, 3.Meat, 4.Diary): ");
+                            string typeInput = Console.ReadLine();
+
                             
-                        } while (!bool_type);
+                            if (Enum.TryParse<Type>(typeInput, true, out productType))
+                            {
+                                break; 
+                            }
+                            else
+                            {
+                                Console.WriteLine("Zehmet olmasa dogru daxil edin , 1.Baker, 2.Drink, 3.Meat, 4.Diary.");
+                            }
+                        } while (true);
 
-
-
-                        Product mehsul = new Product(name_product,price,type);
+                        Product mehsul = new Product(name_product,price,productType);
                         magaza.Add(mehsul);                     
                                                 
 
@@ -77,13 +85,36 @@ namespace InvalidException
                         int type_get;
                         do
                         {
-                            Console.WriteLine("Type daxil et:");
+                            Console.WriteLine("1.Baker   2.Drink   3.Meat   4.Diary");
+                            
                             bool_get_type=int.TryParse(Console.ReadLine(),out type_get);
 
+                            if(type_get>=0 && type_get <= 4)
+                            {
+                                bool_get_type=true;
+
+                            }
+                            else
+                            {
+                                bool_get_type = false;
+                            }
+
                         } while (!bool_get_type);
+
                         magaza.GetProductType(type_get);
                         
-                        
+                        break;
+                    case "5":
+                        Console.WriteLine("Mehsul adini daxil edin:");
+                        string name= Console.ReadLine();
+                        magaza.FilterProductByName(name);
+                        break;
+                    case "6":
+                        magaza.ShowInfo();
+                        break;
+                    case "0":
+                        return;
+                        default:
                         break;
                 }
 

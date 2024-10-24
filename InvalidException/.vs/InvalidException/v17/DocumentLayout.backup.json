@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\",
+  "WorkspaceRootPath": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Exception\\Projects\\InvalidException\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\ii novbe\\source\\repos\\invalidexception\\invalidexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|solutionrelative:invalidexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\ii novbe\\source\\repos\\invalidexception\\invalidexception\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\codecademy\\exception\\projects\\invalidexception\\invalidexception\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|solutionrelative:invalidexception\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\ii novbe\\source\\repos\\invalidexception\\invalidexception\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\codecademy\\exception\\projects\\invalidexception\\invalidexception\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|solutionrelative:invalidexception\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E93E00BE-9343-455F-A0D8-7AA3F9DF400F}|Core\\Core.csproj|c:\\users\\ii novbe\\source\\repos\\invalidexception\\core\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\codecademy\\exception\\projects\\invalidexception\\invalidexception\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|solutionrelative:invalidexception\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93E00BE-9343-455F-A0D8-7AA3F9DF400F}|Core\\Core.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\codecademy\\exception\\projects\\invalidexception\\core\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E93E00BE-9343-455F-A0D8-7AA3F9DF400F}|Core\\Core.csproj|solutionrelative:core\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\ii novbe\\source\\repos\\invalidexception\\invalidexception\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|solutionrelative:invalidexception\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|c:\\users\\victus\\onedrive\\\u0130\u015F masas\u0131\\codecademy\\exception\\projects\\invalidexception\\invalidexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E07EF95-C9AA-4F63-8F2D-8FE0D3963EA6}|InvalidException\\InvalidException.csproj|solutionrelative:invalidexception\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,43 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Enum.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Enum.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Exception\\Projects\\InvalidException\\InvalidException\\Enum.cs",
               "RelativeDocumentMoniker": "InvalidException\\Enum.cs",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Enum.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Exception\\Projects\\InvalidException\\InvalidException\\Enum.cs",
               "RelativeToolTip": "InvalidException\\Enum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T13:51:17.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Store.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Store.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Exception\\Projects\\InvalidException\\InvalidException\\Store.cs",
               "RelativeDocumentMoniker": "InvalidException\\Store.cs",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Store.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Exception\\Projects\\InvalidException\\InvalidException\\Store.cs",
               "RelativeToolTip": "InvalidException\\Store.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA6wDYAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAUwCwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T13:41:28.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Exception\\Projects\\InvalidException\\InvalidException\\Product.cs",
               "RelativeDocumentMoniker": "InvalidException\\Product.cs",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Product.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Exception\\Projects\\InvalidException\\InvalidException\\Product.cs",
               "RelativeToolTip": "InvalidException\\Product.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwC8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T13:01:26.824Z",
               "EditorCaption": ""
@@ -75,24 +75,24 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "PriceMustBeGratherThanZeroException.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\Core\\PriceMustBeGratherThanZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Exception\\Projects\\InvalidException\\Core\\PriceMustBeGratherThanZeroException.cs",
               "RelativeDocumentMoniker": "Core\\PriceMustBeGratherThanZeroException.cs",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\Core\\PriceMustBeGratherThanZeroException.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Exception\\Projects\\InvalidException\\Core\\PriceMustBeGratherThanZeroException.cs",
               "RelativeToolTip": "Core\\PriceMustBeGratherThanZeroException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T13:00:36.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Exception\\Projects\\InvalidException\\InvalidException\\Program.cs",
               "RelativeDocumentMoniker": "InvalidException\\Program.cs",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\InvalidException\\InvalidException\\Program.cs",
+              "ToolTip": "C:\\Users\\Victus\\OneDrive\\\u0130\u015F masas\u0131\\Codecademy\\Exception\\Projects\\InvalidException\\InvalidException\\Program.cs",
               "RelativeToolTip": "InvalidException\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T13:00:14.517Z",
               "EditorCaption": ""

@@ -29,6 +29,7 @@ namespace InvalidException
                 Console.WriteLine(products[i].Id);
                 Console.WriteLine(products[i].Name);
                 Console.WriteLine(products[i].Price);
+                Console.WriteLine(products[i].ProductType);
                 Console.WriteLine();
             }
         }
@@ -36,11 +37,12 @@ namespace InvalidException
         
         public void Remove(int id)
         {
-            for(int i  = id; i < products.Length-1;i++)
+            for(int i  = id-1; i < products.Length-1;i++)
             {
                 products[i]=products[i+1];
             }
             Array.Resize(ref products,products.Length-1);
+            Console.WriteLine("Sorgu icra edildi");
         }
 
         public void GetProduct(int id)
@@ -52,7 +54,7 @@ namespace InvalidException
                     Console.WriteLine();                    
                     Console.WriteLine(products[i].Name);
                     Console.WriteLine(products[i].Price);
-                    Console.WriteLine(Type.);
+                    Console.WriteLine(products[i].ProductType);
                     Console.WriteLine();
                 }
             }
@@ -60,18 +62,73 @@ namespace InvalidException
 
         public void GetProductType(int type)
         {
-            switch (type)
+            for (int i = 0; i < products.Length; i++)
             {
-                case 0:
-                    Console.WriteLine(Type.Baker);
-                    break;
-                case 1:
-                    Console.WriteLine(Type.Drink);
-                    break;
-                default:
-                    break;
+                if (type==1 && products[i].ProductType.ToString()=="Baker")
+                {
+                    Console.WriteLine();
+                    Console.WriteLine(products[i].Id);
+                    Console.WriteLine(products[i].Name);
+                    Console.WriteLine(products[i].Price);
+                    Console.WriteLine(products[i].ProductType);
+                    Console.WriteLine();
+                }
+            }
+            for (int i = 0; i < products.Length; i++)
+            {
+                if (type == 2 && products[i].ProductType.ToString() == "Drink")
+                {
+                    Console.WriteLine();
+                    Console.WriteLine(products[i].Id);
+                    Console.WriteLine(products[i].Name);
+                    Console.WriteLine(products[i].Price);
+                    Console.WriteLine(products[i].ProductType);
+                    Console.WriteLine();
+                }
+            }
+            for (int i = 0; i < products.Length; i++)
+            {
+                if (type == 3 && products[i].ProductType.ToString() == "Meat")
+                {
+                    Console.WriteLine();
+                    Console.WriteLine(products[i].Id);
+                    Console.WriteLine(products[i].Name);
+                    Console.WriteLine(products[i].Price);
+                    Console.WriteLine(products[i].ProductType);
+                    Console.WriteLine();
+                }
+            }
+            for (int i = 0; i < products.Length; i++)
+            {
+                if (type == 4 && products[i].ProductType.ToString() == "Diary")
+                {
+                    Console.WriteLine();
+                    Console.WriteLine(products[i].Id);
+                    Console.WriteLine(products[i].Name);
+                    Console.WriteLine(products[i].Price);
+                    Console.WriteLine(products[i].ProductType);
+                    Console.WriteLine();
+                }
             }
         }
+
+        public void FilterProductByName(string name)
+        {
+            for (int i = 0;i < products.Length;i++)
+            {
+                if(name == products[i].Name)
+                {
+                    Console.WriteLine();
+                    Console.WriteLine(products[i].Id);
+                    Console.WriteLine(products[i].Name);
+                    Console.WriteLine(products[i].Price);
+                    Console.WriteLine(products[i].ProductType);
+                    Console.WriteLine();
+                }
+            }
+        }
+
+        
 
 
     }
